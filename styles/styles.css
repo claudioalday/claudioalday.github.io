@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=Noto+Serif:ital@1&display=swap');
+body{font-family: 'Cormorant+Garamond';
+}
+
+header{
+background-color: #CF0A0A;
+
+}
+nav{
+
+background-color: #DC5F00;
+}
+main{
+background-color: #DC5F00;
+
+}
+aside{
+
+background-color: black;
+}
+footer{
+
+background-color: black;
+}
+.textoDeServicios{
+    width: 200px;
+    height: 110px;
+    background-color: black;
+    font: size 44px;
+    color: whitesmoke;
+    padding-left: 20px;
+    display: inline-block;
+}
+.menuDeNavegacion{
+    border: 1px solid gray;
+    width: 29.33%;
+    height: 140px;
+    margin: 1%;
+    padding: 1%;
+    background-color: black;
+    font: size 34px;
+    color: white;
+    float: left;
+
+
+}
+.tituloFoto{
+    float: right;
+}
